@@ -22,13 +22,7 @@
   * Hostearlo en un VPS o un Raspberry PI, para no tener tu PC encendido 24/7
 # Tecnologías usadas:
 <table>
-  <thead>
-    <tr>
-    
-      <th>Node</th>
-      <th>JS</th>
-    </tr>
-  </thead>
+
   <tbody>
     <tr>
       <td>
