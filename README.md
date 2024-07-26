@@ -32,7 +32,3 @@ https://optiklink.com/home
 ```
 
 </p>
-
-- GitHub: https://github.com/CarlosGhozd 
-- Instagram: https://www.instagram.com/carlos_ghozd/
-- Discord: https://www.discord.io/chocomara
